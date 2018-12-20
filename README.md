@@ -1,9 +1,10 @@
 # Dog Breed Classifier
 
 
-### Implementazione di una Convolutional Neural Network per la classificazione di razze di cane
+### Convolutional Neural Network with Keras for dog breed classification
 
-Progetto svolto per il corso di "Metodi Statistici per l'Apprendimento"
+
+Project developed for "Statistical Methods for Machine Learning" course.
 
 
 
@@ -11,10 +12,8 @@ Progetto svolto per il corso di "Metodi Statistici per l'Apprendimento"
 
 
 
-Il file "best_model" mostra il notebook con cui è stato addestrata la CNN che ha ottenuto i risultati migliori.
-
-
-Al termine del progetto, il modello addestrato è stato utilizzato all'interno di un'applicazione Android.
+The "best_model" file shows the notebook in which the best CNN was trained.
+This model is used inside an Android application.
 
 ![Android](Immagini/android_app_cropped.jpg)
 
