@@ -15,5 +15,5 @@ Project developed for "Statistical Methods for Machine Learning" course.
 The "best_model" file shows the notebook in which the best CNN was trained.
 This model is used inside an Android application.
 
-![Android](Immagini/android_app_cropped.jpg)
+![Android](images/android_app_cropped.jpg)
 
