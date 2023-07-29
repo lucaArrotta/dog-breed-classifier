@@ -1,19 +1,19 @@
-# Dog Breed Classifier
+# Dog Breed Classifier with Convolutional Neural Networks on Android application
 
+Project developed for the "Statistical Methods for Machine Learning" master course.
 
-### Convolutional Neural Network with Keras for dog breed classification
+This repository contains the implementation from scratch of a Convolutional Neural Network for image-based
+Dog Breed classification. The trained neural network is also deployed on an Android application.
 
+<hr>
 
-Project developed for "Statistical Methods for Machine Learning" course.
+Details about the repository files:
 
+- DogBreedClassifier: notebook in which the CNN model is builded and trained from scratch
 
+- best\_model: "screenshot" of the running notebook in which the most accurate CNN model was trained
 
-<br>
-
-
-
-The "best_model" file shows the notebook in which the best CNN was trained.
-This model is used inside an Android application.
+- AndroidApp: the Android project including a running application that relies on the most accurate CNN model
 
 ![Android](images/android_app_cropped.jpg)
 
