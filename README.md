@@ -1,4 +1,4 @@
-# Dog Breed Classifier with Convolutional Neural Networks on Android application
+# Dog Breed Classification with Convolutional Neural Networks on Android app
 
 Project developed for the "Statistical Methods for Machine Learning" master course.
 
